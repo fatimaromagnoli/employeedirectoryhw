@@ -11,4 +11,4 @@ As a user, I want to be able to view my entire employee directory at once so tha
 Business Context
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
-![Image description](images/ed.PNG)
+![Image description](img/ed.PNG)
